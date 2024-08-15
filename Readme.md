@@ -2,8 +2,7 @@
 Hi , Iam Darshan Patil 
 <br> 👯 I’m looking for a FrontEnd Internship<br>🌱 I’m currently learning - Backend Development
 
-## 🌐 Socials:
-[![X] (https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itz_darshan5) 
+
 
 
 # 💻 Tech Stack:
